@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_brick623_GreatBritainandIrelandMap_Map_NAME" Language="en_US">
+			<Text>Great Britain and Ireland Map</Text>
+		</Replace>
+		<Replace Tag="LOC_brick623_GreatBritainandIrelandMap_Map_DESC" Language="en_US"
+>			<Text>Great Britain and Ireland Map (79x73) by brick623</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

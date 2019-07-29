@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<NaturalWonderPosition>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="55" Y="9" FeatureType="FEATURE_CLIFFS_DOVER" TerrainType="TERRAIN_GRASS_HILLS" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="56" Y="10" FeatureType="FEATURE_CLIFFS_DOVER" TerrainType="TERRAIN_GRASS_HILLS" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="23" Y="39" FeatureType="FEATURE_GIANTS_CAUSEWAY" TerrainType="TERRAIN_GRASS" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="24" Y="40" FeatureType="FEATURE_GIANTS_CAUSEWAY" TerrainType="TERRAIN_COAST" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="55" Y="9" FeatureType="FEATURE_CLIFFS_DOVER" TerrainType="TERRAIN_GRASS_HILLS" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="56" Y="10" FeatureType="FEATURE_CLIFFS_DOVER" TerrainType="TERRAIN_GRASS_HILLS" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="23" Y="39" FeatureType="FEATURE_GIANTS_CAUSEWAY" TerrainType="TERRAIN_GRASS" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="24" Y="40" FeatureType="FEATURE_GIANTS_CAUSEWAY" TerrainType="TERRAIN_COAST" />
+	</NaturalWonderPosition>
+</GameData>
