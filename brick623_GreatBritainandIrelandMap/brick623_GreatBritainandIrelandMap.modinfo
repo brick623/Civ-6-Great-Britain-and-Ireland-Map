@@ -24,6 +24,8 @@
 		</ImportFiles>
 		<UpdateDatabase id="NewAction">
 			<File>Map/Map.xml</File>
+			<File>Map/CityMap.xml</File>
+			<File>Gameplay/GamePlayText.xml</File>
 			<File>Map/NaturalWonders.xml</File>
 			<File>Map/ExtraPlacement.xml</File>
 		</UpdateDatabase>
@@ -35,6 +37,8 @@
 		<File>Config/Config.xml</File>
 		<File>Config/Config_Text.xml</File>
 		<File>Map/Map.xml</File>
+		<File>Map/CityMap.xml</File>
+		<File>Gameplay/GamePlayText.xml</File>
 		<File>Map/MapText.xml</File>
 		<File>Map/NaturalWonders.xml</File>
 		<File>Map/ExtraPlacement.xml</File>
