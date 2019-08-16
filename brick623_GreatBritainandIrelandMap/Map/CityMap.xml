@@ -781,37 +781,144 @@
 	</CityMap>
 	
 	<CityMap> <!-- ISLE OF MAN -->
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="29" Y="32" CityLocaleName="LOC_CITY_NAME_CASTLETOWN" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="30" Y="32" CityLocaleName="LOC_CITY_NAME_DOUGLAS" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="29" Y="33" CityLocaleName="LOC_CITY_NAME_JURBY" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="30" Y="33" CityLocaleName="LOC_CITY_NAME_DOUGLAS" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="30" Y="34" CityLocaleName="LOC_CITY_NAME_RAMSEY" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="31" Y="34" CityLocaleName="LOC_CITY_NAME_RAMSEY" Area="0" />
 		
 
 	</CityMap>
 	
-	<CityMap> <!-- BORDERS (Y=39 TO Y=47) -->
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
+	<CityMap> <!-- BORDERS (Y=40 TO Y=47) -->
+	
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="30" Y="38" CityLocaleName="LOC_CITY_NAME_PORT_LOGAN" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="38" CityLocaleName="LOC_CITY_NAME_WHITHORN" Area="0" />
 		
-
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="28" Y="39" CityLocaleName="LOC_CITY_NAME_STRANRAER" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="29" Y="39" CityLocaleName="LOC_CITY_NAME_STRANRAER" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="30" Y="39" CityLocaleName="LOC_CITY_NAME_WIGTOWN" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="31" Y="39" CityLocaleName="LOC_CITY_NAME_WIGTOWN" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="32" Y="39" CityLocaleName="LOC_CITY_NAME_CASTLE_DOUGLAS" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="39" CityLocaleName="LOC_CITY_NAME_CASTLE_DOUGLAS" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="39" CityLocaleName="LOC_CITY_NAME_SOUTHERNESS" Area="0" />
+		
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="29" Y="40" CityLocaleName="LOC_CITY_NAME_STRANRAER" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="30" Y="40" CityLocaleName="LOC_CITY_NAME_STRANRAER" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="31" Y="40" CityLocaleName="LOC_CITY_NAME_STRANRAER" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="32" Y="40" CityLocaleName="LOC_CITY_NAME_WIGTOWN" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="40" CityLocaleName="LOC_CITY_NAME_NEWTOWN_STEWART" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="40" CityLocaleName="LOC_CITY_NAME_CASTLE_DOUGLAS" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="40" CityLocaleName="LOC_CITY_NAME_ANNAN" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="40" CityLocaleName="LOC_CITY_NAME_GRETNA_GREEN" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="37" Y="40" CityLocaleName="LOC_CITY_NAME_GRETNA_GREEN" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="38" Y="40" CityLocaleName="LOC_CITY_NAME_CARLISLE" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="39" Y="40" CityLocaleName="LOC_CITY_NAME_HALTWHISTLE" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="40" CityLocaleName="LOC_CITY_NAME_HEXHAM" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="41" Y="40" CityLocaleName="LOC_CITY_NAME_HEXHAM" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="42" Y="40" CityLocaleName="LOC_CITY_NAME_NEWCASTLE_UPON_TYNE" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="43" Y="40" CityLocaleName="LOC_CITY_NAME_NEWCASTLE_UPON_TYNE" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="44" Y="40" CityLocaleName="LOC_CITY_NAME_NEWCASTLE_UPON_TYNE" Area="0" />
+		
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="29" Y="41" CityLocaleName="LOC_CITY_NAME_BALLANTRAE" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="30" Y="41" CityLocaleName="LOC_CITY_NAME_BARHILL" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="31" Y="41" CityLocaleName="LOC_CITY_NAME_BARGRENNAN" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="32" Y="41" CityLocaleName="LOC_CITY_NAME_GALLOWAY" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="41" CityLocaleName="LOC_CITY_NAME_DUMFRIES" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="41" CityLocaleName="LOC_CITY_NAME_DUMFRIES" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="41" CityLocaleName="LOC_CITY_NAME_LOCKERBIE" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="41" CityLocaleName="LOC_CITY_NAME_LANGHOLM" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="37" Y="41" CityLocaleName="LOC_CITY_NAME_NEWCASTLETON" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="38" Y="41" CityLocaleName="LOC_CITY_NAME_BELLINGHAM" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="39" Y="41" CityLocaleName="LOC_CITY_NAME_PONTELAND" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="41" CityLocaleName="LOC_CITY_NAME_PONTELAND" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="41" Y="41" CityLocaleName="LOC_CITY_NAME_MORPETH" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="42" Y="41" CityLocaleName="LOC_CITY_NAME_MORPETH" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="43" Y="41" CityLocaleName="LOC_CITY_NAME_BLYTH" Area="0" />
+		
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="30" Y="42" CityLocaleName="LOC_CITY_NAME_GIRVAN" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="31" Y="42" CityLocaleName="LOC_CITY_NAME_GIRVAN" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="32" Y="42" CityLocaleName="LOC_CITY_NAME_DALMELLINGTON" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="42" CityLocaleName="LOC_CITY_NAME_CARPSHAIM" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="42" CityLocaleName="LOC_CITY_NAME_CARPSHAIM" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="42" CityLocaleName="LOC_CITY_NAME_THORNHILL" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="42" CityLocaleName="LOC_CITY_NAME_MOFFAT" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="37" Y="42" CityLocaleName="LOC_CITY_NAME_HAWICK" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="38" Y="42" CityLocaleName="LOC_CITY_NAME_JEDBURGH" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="39" Y="42" CityLocaleName="LOC_CITY_NAME_JEDBURGH" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="42" CityLocaleName="LOC_CITY_NAME_COLDSTREAM" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="41" Y="42" CityLocaleName="LOC_CITY_NAME_COLDSTREAM" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="42" Y="42" CityLocaleName="LOC_CITY_NAME_BAMBURGH" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="43" Y="42" CityLocaleName="LOC_CITY_NAME_BAMBURGH" Area="0" />
+		
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="30" Y="43" CityLocaleName="LOC_CITY_NAME_AYR" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="31" Y="43" CityLocaleName="LOC_CITY_NAME_KILMARNOCK" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="32" Y="43" CityLocaleName="LOC_CITY_NAME_KILMARNOCK" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="43" CityLocaleName="LOC_CITY_NAME_SANQUHAR" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="43" CityLocaleName="LOC_CITY_NAME_PEEBLES" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="43" CityLocaleName="LOC_CITY_NAME_PEEBLES" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="43" CityLocaleName="LOC_CITY_NAME_GALASHIELS" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="37" Y="43" CityLocaleName="LOC_CITY_NAME_KELSO" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="38" Y="43" CityLocaleName="LOC_CITY_NAME_KELSO" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="39" Y="43" CityLocaleName="LOC_CITY_NAME_COLDSTREAM" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="43" CityLocaleName="LOC_CITY_NAME_COLDSTREAM" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="41" Y="43" CityLocaleName="LOC_CITY_NAME_COLDSTREAM" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="42" Y="43" CityLocaleName="LOC_CITY_NAME_BAMBURGH" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="43" Y="43" CityLocaleName="LOC_CITY_NAME_BAMBURGH" Area="0" />
+		
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="31" Y="44" CityLocaleName="LOC_CITY_NAME_PRESTWICK" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="32" Y="44" CityLocaleName="LOC_CITY_NAME_KILMARNOCK" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="44" CityLocaleName="LOC_CITY_NAME_KILMARNOCK" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="44" CityLocaleName="LOC_CITY_NAME_LANARK" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="44" CityLocaleName="LOC_CITY_NAME_LANARK" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="44" CityLocaleName="LOC_CITY_NAME_PEEBLES" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="37" Y="44" CityLocaleName="LOC_CITY_NAME_GALASHIELS" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="38" Y="44" CityLocaleName="LOC_CITY_NAME_KELSO" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="39" Y="44" CityLocaleName="LOC_CITY_NAME_DUNS" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="44" CityLocaleName="LOC_CITY_NAME_DUNS" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="41" Y="44" CityLocaleName="LOC_CITY_NAME_COLDSTREAM" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="42" Y="44" CityLocaleName="LOC_CITY_NAME_BERWICK_UPON_TWEED" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="43" Y="44" CityLocaleName="LOC_CITY_NAME_BERWICK_UPON_TWEED" Area="0" />
+		
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="30" Y="45" CityLocaleName="LOC_CITY_NAME_GREENOCK" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="31" Y="45" CityLocaleName="LOC_CITY_NAME_PAISLEY" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="32" Y="45" CityLocaleName="LOC_CITY_NAME_GLASGOW" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="45" CityLocaleName="LOC_CITY_NAME_GLASGOW" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="45" CityLocaleName="LOC_CITY_NAME_LANARK" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="45" CityLocaleName="LOC_CITY_NAME_LANARK" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="45" CityLocaleName="LOC_CITY_NAME_LIVINGSTON" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="37" Y="45" CityLocaleName="LOC_CITY_NAME_LIVINGSTON" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="38" Y="45" CityLocaleName="LOC_CITY_NAME_WEST_LINTON" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="39" Y="45" CityLocaleName="LOC_CITY_NAME_DALKEITH" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="45" CityLocaleName="LOC_CITY_NAME_DUNS" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="41" Y="45" CityLocaleName="LOC_CITY_NAME_BERWICK" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="42" Y="45" CityLocaleName="LOC_CITY_NAME_BERWICK_UPON_TWEED" Area="0" />
+		
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="32" Y="46" CityLocaleName="LOC_CITY_NAME_DUMBARTON" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="46" CityLocaleName="LOC_CITY_NAME_GLASGOW" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="46" CityLocaleName="LOC_CITY_NAME_GLASGOW" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="46" CityLocaleName="LOC_CITY_NAME_CUMBERNAULD" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="46" CityLocaleName="LOC_CITY_NAME_LIVINGSTON" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="37" Y="46" CityLocaleName="LOC_CITY_NAME_LIVINGSTON" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="38" Y="46" CityLocaleName="LOC_CITY_NAME_EDINBURGH" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="39" Y="46" CityLocaleName="LOC_CITY_NAME_EDINBURGH" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="46" CityLocaleName="LOC_CITY_NAME_MUSSELBURGH" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="41" Y="46" CityLocaleName="LOC_CITY_NAME_DUNBAR" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="42" Y="46" CityLocaleName="LOC_CITY_NAME_EYEMOUTH" Area="0" />
+		
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="31" Y="47" CityLocaleName="LOC_CITY_NAME_DUMBARTON" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="32" Y="47" CityLocaleName="LOC_CITY_NAME_DUMBARTON" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="47" CityLocaleName="LOC_CITY_NAME_BALLOCH" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="47" CityLocaleName="LOC_CITY_NAME_CUMBERNAULD" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="47" CityLocaleName="LOC_CITY_NAME_CUMBERNAULD" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="47" CityLocaleName="LOC_CITY_NAME_STIRLING" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="37" Y="47" CityLocaleName="LOC_CITY_NAME_FALKIRK" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="38" Y="47" CityLocaleName="LOC_CITY_NAME_EDINBURGH" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="39" Y="47" CityLocaleName="LOC_CITY_NAME_EDINBURGH" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="47" CityLocaleName="LOC_CITY_NAME_MUSSELBURGH" Area="0" />
+	
 	</CityMap>
 	
-	<CityMap> <!-- WHERE TO? -->
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="" Y="" CityLocaleName="LOC_CITY_NAME_" Area="0" />
-		
-
-	</CityMap>
-
 
 </GameData>
