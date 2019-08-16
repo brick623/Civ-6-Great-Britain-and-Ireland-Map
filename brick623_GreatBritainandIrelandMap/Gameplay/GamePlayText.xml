@@ -696,7 +696,7 @@
 
 	<!-- GREAT BRITAIN AND IRELAND MAP -->
 	
-	<LocalizedText>		<!-- SOUTH WEST AND SOUTH EAST ENGLAND -->
+	<LocalizedText>
 
 		<Replace Tag="LOC_CITY_NAME_HUGH_TOWN" Text="Hugh Town" Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_PENZANCE" Text="Penzance" Language="en_US" />
@@ -824,6 +824,266 @@
 		<Replace Tag="LOC_CITY_NAME_WESTMINSTER" Text="Westminster" Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_TILBURY" Text="Tilbury" Language="en_US" />
 		
+		<Replace Tag="LOC_CITY_NAME_PORT_TALBOT" Text="Port Talbot" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CARDIFF" Text="Cardiff" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_MILFORD_HAVEN" Text="Milford Haven" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_TENBY" Text="Tenby" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LLANELLI" Text="Llanelli" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SWANSEA" Text="Swansea" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CAERPHILLY" Text="Caerphilly" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_NEWPORT" Text="Newport" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_ST_BRIDES" Text="St Brides" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HAVERFORDWEST" Text="Haverfordwest" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CARMARTHEN" Text="Carmarthen" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_YSTRADGLYNAIS" Text="Ystradglynais" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_YSTRAD_MYNACH" Text="Ystrad Mynach" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_ABERGAVENNY" Text="ABergavenny" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_MONMOUTH" Text="Monmouth" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_ST_DAVIDS" Text="St Davids" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LLANDOVERY" Text="Llandovery" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SENNYBRIDGE" Text="Sennybridge" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BRECON" Text="Brecon" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HEREFORD" Text="Hereford" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_FISHGUARD" Text="Fishguard" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_EMLYN" Text="Emlyn" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LLANBYDDER" Text="Llanbydder" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LLANWRTYD_WELLS" Text="Llanwrtyd Wells" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HAY_ON_WYE" Text="Hay-on-Wye" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HEREFORD" Text="Hereford" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LEDBURY" Text="Ledbury" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CARDIGAN" Text="Cardigan" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BUILTH_WELLS" Text="Builth Wells" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_KINGTON" Text="Kington" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LUDLOW" Text="Ludlow" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_ABERYSTWYTH" Text="Aberystwyth" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_RHAYADAR" Text="Rhayadar" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LLANDRINDOD_WELLS" Text="Llandrindod Wells" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BRIDGNORTH" Text="Bridgnorth" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_MACHYNLLETH" Text="Machynlleth" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CAERSWS" Text="Caersws" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_WELSHPOOL" Text="Welshpool" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SHREWSBURY" Text="Shrewsbury" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BARMOUTH" Text="Barmouth" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_DOLGELLAU" Text="Dolgellau" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LLANFYLLIN" Text="Llanfyllin" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_OSWESTRY" Text="Oswestry" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HARLECH" Text="Harlech" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BALA" Text="Bala" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_WHITCHURCH" Text="Whitchurch" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_PWLLHELI" Text="Pwllheli" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BETWS_Y_COED" Text="Betws-y-Coed" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_WREXHAM" Text="Wrexham" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_PORTHMADOG" Text="Porthmadog" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CHESTER" Text="Chester" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CAERNARFON" Text="Caernarfon" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_DENBIGH" Text="Denbigh" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HOLYWELL" Text="Holywell" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BANGOR" Text="Bangor" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CONWY" Text="Conwy" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_RHYL" Text="Rhyl" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HOLYHEAD" Text="Holyhead" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LLANFAIRPWYLLGWYNGYLL" Text="Llanfairpwyllgwyngyll" Language="en_US" />
+		
+		<Replace Tag="LOC_CITY_NAME_GLOUCESTER" Text="Gloucester" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_ANDOVERSFORD" Text="Andoversford" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CHEDWORTH" Text="Chedworth" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BOURTON_ON_THE_WATER" Text="Bourton-on-the-Water" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BURFORD" Text="Burford" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_WITNEY" Text="Witney" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_OXFORD" Text="Oxford" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HIGH_WYCOMBE" Text="High Wycombe" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BEACONSFIELD" Text="Beaconsfield" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BASILDON" Text="Basildon" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_TEWKESBURY" Text="Tewkesbury" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_EVESHAM" Text="Evesham" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CHIPPING_NORTON" Text="Chipping Norton" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CHIPPING_CAMDEN" Text="Chipping Camden" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_AYLESBURY" Text="Aylesbury" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_ST_ALBANS" Text="St Albans" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CHELMSFORD" Text="Chelmsford" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LEDBURY" Text="Ledbury" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_GREAT_MALVERN" Text="Great Malvern" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_STRATFORD_UPON_AVON" Text="Stratford-upon-Avon" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_GAYDON" Text="Gaydon" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BANBURY" Text="Banbury" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BUCKINGHAM" Text="Buckingham" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_WORCESTER" Text="Worcester" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_REDDITCH" Text="Redditch" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_ROYAL_LEAMINGTON_SPA" Text="Royal Leamington Spa" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_NORTHAMPTON" Text="Northampton" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_MILTON_KEYNES" Text="Milton Keynes" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BEDFORD" Text="Bedford" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CAMBRIDGE" Text="Cambridge" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_COLCHESTER" Text="Colchester" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_WARWICK" Text="Warwick" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HUNTINGDON" Text="Huntingdon" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BURY_ST_EDMUNDS" Text="Bury St Edmunds" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BRIDGNORTH" Text="Bridgnorth" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_STOURPORT" Text="Stourport" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_WOLVERHAMPTON" Text="Wolverhampton" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BIRMINGHAM" Text="Birmingham" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_COVENTRY" Text="Coventry" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_RUGBY" Text="Rugby" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_KETTERING" Text="Kettering" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_ELY" Text="Ely" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_TELFORD" Text="Telford" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LEICESTER" Text="Leicester" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_MARKET_HARBOROUGH" Text="Market Harborough" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CORBY" Text="Corby" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CHATTERIS" Text="Chatteris" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_TAMWORTH" Text="Tamworth" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_OAKHAM" Text="Oakham" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_STAMFORD" Text="Stamford" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_MARCH" Text="March" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_PETERBOROUGH" Text="Peterborough" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_DOWNHAM_MARKET" Text="Downham Market" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CREWE" Text="Crewe" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_STOKE_ON_TRENT" Text="Stoke-on-Trent" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_DERBY" Text="Derby" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_NOTTINGHAM" Text="Nottingham" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_MELTON_MOWBRAY" Text="Melton Mowbray" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_GRANTHAM" Text="Grantham" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BOSTON" Text="Boston" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CHESTER" Text="Chester" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_STOKE" Text="Stoke" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_NEWARK" Text="Newark" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_WARRINGTON" Text="Warrington" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_MACCLESFIELD" Text="Macclesfield" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BUXTON" Text="Buxton" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CHESTERFIELD" Text="Chesterfield" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_NEWARK_ON_TRENT" Text="Newark-on-Trent" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SKEGNESS" Text="Skegness" Language="en_US" />
+		
+		<Replace Tag="LOC_CITY_NAME_LIVERPOOL" Text="Liverpool" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_MANCHESTER" Text="Manchester" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BUXTON" Text="Buxton" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CHESTERFIELD" Text="Chesterfield" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BOLSOVER" Text="Bolsover" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_NEWARK_ON_TRENT" Text="Newark-on-Trent" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LINCOLN" Text="Lincoln" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SKEGNESS" Text="Skegness" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_ST_HELENS" Text="St Helens" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CASTLETON" Text="Castleton" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SHEFFIELD" Text="Sheffield" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_RETFORD" Text="Retford" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_GAINSBOROUGH" Text="Gainsborough" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LINCOLN" Text="Lincoln" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LOUTH" Text="Louth" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_ROCHDALE" Text="Rochdale" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HUDDERSFIELD" Text="Huddersfield" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_DONCASTER" Text="Doncaster" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_GAINSBOROUGH" Text="Gainsborough" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SCUNTHORPE" Text="Scunthorpe" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_GRIMSBY" Text="Grimsby" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SOUTHPORT" Text="Southport" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CHORLEY" Text="Chorley" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BLACKBURN" Text="Blackburn" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BURY" Text="Bury" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_PONTEFRACT" Text="Pontefract" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_DONCASTER" Text="Doncaster" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_GOOLE" Text="Goole" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_PRESTON" Text="Preston" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BURNLEY" Text="Burnley" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HALIFAX" Text="Halifax" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LEEDS" Text="Leeds" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_KINGSTON_UPON_HULL" Text="Kingston-upon-Hull" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HORNSEA" Text="Hornsea" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LANCASTER" Text="Lancaster" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SETTLE" Text="Settle" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SKIPTON" Text="Skipton" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HARROGATE" Text="Harrogate" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_YORK" Text="York" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BEVERLEY" Text="Beverley" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_RIPON" Text="Ripon" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_EASINGWOLD" Text="Easingwold" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_MALTON" Text="Malton" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BRIDLINGTON" Text="Bridlington" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BARROW_IN_FURNESS" Text="Barrow-in-Furness" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_ULVERSTON" Text="Ulverston" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HAWES" Text="Hawes" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_KENDAL" Text="Kendal" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_RICHMOND" Text="Richmond" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_NORTHALLERTON" Text="Northallerton" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HELMSLEY" Text="Helmsley" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_PICKERING" Text="Pickering" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SCARBOROUGH" Text="Scarborough" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BROUGHTON_IN_FURNESS" Text="Broughton-in-Furness" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_WINDERMERE" Text="Windermere" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SEDBERGH" Text="Sedbergh" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_DARLINGTON" Text="Darlington" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_THORNABY" Text="Thornaby" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_GUISBOROUGH" Text="Guisborough" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_WHITBY" Text="Whitby" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_WHITEHAVEN" Text="Whitehaven" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_PENRITH" Text="Penrith" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_APPLEBY_IN_WESTMORLAND" Text="Appleby-in-Westmorland" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BISHOP_AUCKLAND" Text="Bishop Auckland" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_MIDDLESBROUGH" Text="Middlesbrough" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_REDCAR" Text="Redcar" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_KESWICK" Text="Keswick" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_DURHAM" Text="Durham" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_WIGTON" Text="Wigton" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_ALSTON" Text="Alston" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_STANHOPE" Text="Stanhope" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HARTLEPOOL" Text="Hartlepool" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_CARLISLE" Text="Carlisle" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HALTWHISTLE" Text="Haltwhisle" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_HEXHAM" Text="Hexham" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_GATESHEAD" Text="Gateshead" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SUNDERLAND" Text="Sunderland" Language="en_US" />
+		
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_" Text="" Language="en_US" />
