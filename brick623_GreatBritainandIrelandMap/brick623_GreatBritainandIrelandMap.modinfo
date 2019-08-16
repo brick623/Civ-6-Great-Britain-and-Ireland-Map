@@ -13,9 +13,11 @@
 	<FrontEndActions>
 		<UpdateDatabase id="brick623_GreatBritainandIrelandMap_SETTING">
 			<File>Config/Config.xml</File>
+			<File>Map/CityMap.xml</File>
 		</UpdateDatabase>
 		<UpdateText id="NewAction">
 			<File>Config/Config_Text.xml</File>
+			<File>Gameplay/GamePlayText.xml</File>
 		</UpdateText>
 	</FrontEndActions>
 	<InGameActions>
@@ -31,6 +33,7 @@
 		</UpdateDatabase>
 		<UpdateText id="YNAMP_DEFAULT_LOC">
 			<File>Map/MapText.xml</File>
+			<File>Gameplay/GamePlayText.xml</File>
 		</UpdateText>
 	</InGameActions>
 	<Files>
