@@ -3,6 +3,20 @@
 	<!-- True Start Locations. You have to fill this in manually -->
 	<StartPosition>
 		<!--<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization ="CIVILIZATION_AMERICA"	X="0" Y="0" />-->
+		
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_ENGLAND"	X="49" Y="13" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_ENGLAND"	X="53" Y="23" AlternateStart="1" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_NORWAY"	X="45" Y="31" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_ROME"		X="39" Y="10" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_SCOTLAND"	X="39" Y="46" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_SCOTLAND"	X="35" Y="49" Leader="LEADER_ROBERT" />
+		
+		<!--Modded Civs-->
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_FB_ANGLO_SAXONS"	X="43" Y="9" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_FB_ANGLO_SAXONS"	X="43" Y="21" Leader="LEADER_FB_OFFA" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_JFD_WALES"	X="35" Y="13" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_SUK_ICELAND"	X="24" Y="59" />
+		
 	</StartPosition>
 
 	<!-- Real City Naming. You have to fill this in manually -->
