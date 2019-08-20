@@ -9,5 +9,16 @@
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="56" Y="10" FeatureType="FEATURE_CLIFFS_DOVER" TerrainType="TERRAIN_GRASS_HILLS" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="23" Y="39" FeatureType="FEATURE_GIANTS_CAUSEWAY" TerrainType="TERRAIN_GRASS" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="24" Y="40" FeatureType="FEATURE_GIANTS_CAUSEWAY" TerrainType="TERRAIN_COAST" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="51" FeatureType="FEATURE_MATTERHORN" TerrainType="TERRAIN_MOUNTAIN" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="39" Y="5" FeatureType="FEATURE_DELICATE_ARCH" TerrainType="TERRAIN_DESERT" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="12" Y="25" FeatureType="FEATURE_UBSUNUR_HOLLOW" TerrainType="TERRAIN_TUNDRA" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="13" Y="25" FeatureType="FEATURE_UBSUNUR_HOLLOW" TerrainType="TERRAIN_TUNDRA" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="13" Y="26" FeatureType="FEATURE_UBSUNUR_HOLLOW" TerrainType="TERRAIN_TUNDRA" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="14" Y="26" FeatureType="FEATURE_UBSUNUR_HOLLOW" TerrainType="TERRAIN_TUNDRA" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="29" Y="59" FeatureType="FEATURE_TORRES_DEL_PAINE" TerrainType="TERRAIN_TUNDRA" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="30" Y="59" FeatureType="FEATURE_TORRES_DEL_PAINE" TerrainType="TERRAIN_TUNDRA" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="24" FeatureType="FEATURE_EVEREST" TerrainType="TERRAIN_TUNDRA" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="24" FeatureType="FEATURE_EVEREST" TerrainType="TERRAIN_TUNDRA" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="25" FeatureType="FEATURE_EVEREST" TerrainType="TERRAIN_MOUNTAIN" />
 	</NaturalWonderPosition>
 </GameData>
