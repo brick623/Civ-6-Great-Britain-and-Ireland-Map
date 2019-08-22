@@ -14,8 +14,15 @@
 		<UpdateDatabase id="brick623_GreatBritainandIrelandMap_SETTING">
 			<File>Config/Config.xml</File>
 			<File>Map/CityMap.xml</File>
+			<File>Data/brick623_GreatBritainandIreland_NaturalWonders.xml</File>
+			<File>Gameplay/Resource.xml</File>
 		</UpdateDatabase>
-		<UpdateText id="NewAction">
+		<UpdateDatabase id="brick623_GreatBritainandIrelandMap_ConfigDatabase">
+			<File>Data/brick623_GreatBritainandIreland_NaturalWonders.xml</File>
+			<File>Gameplay/Resource.xml</File>
+			<File>Gameplay/GamePlayText.xml</File>
+		</UpdateDatabase>
+		<UpdateText id="brick623_GreatBritainandIrelandMap_ConfigText">
 			<File>Config/Config_Text.xml</File>
 			<File>Gameplay/GamePlayText.xml</File>
 		</UpdateText>
@@ -24,11 +31,19 @@
 		<ImportFiles id="brick623_GreatBritainandIrelandMap_IMPORT">
 			<File>Lua/brick623_GreatBritainandIrelandMap_Map.lua</File>
 		</ImportFiles>
+		<UpdateDatabase id="YNAMP_INIT_TABLE">
+           	<Properties>
+				<LoadOrder>-1000</LoadOrder>
+           	</Properties>
+			<File>Gameplay/Tables.sql</File>
+		</UpdateDatabase>
 		<UpdateDatabase id="NewAction">
+			<File>Data/brick623_GreatBritainandIreland_NaturalWonders.xml</File>
 			<File>Map/Map.xml</File>
 			<File>Map/CityMap.xml</File>
 			<File>Gameplay/GamePlayText.xml</File>
 			<File>Map/NaturalWonders.xml</File>
+			<File>Gameplay/Resource.xml</File>
 			<File>Map/ExtraPlacement.xml</File>
 		</UpdateDatabase>
 		<UpdateText id="YNAMP_DEFAULT_LOC">
@@ -39,9 +54,12 @@
 	<Files>
 		<File>Config/Config.xml</File>
 		<File>Config/Config_Text.xml</File>
+		<File>Data/brick623_GreatBritainandIreland_NaturalWonders.xml</File>
 		<File>Map/Map.xml</File>
 		<File>Map/CityMap.xml</File>
 		<File>Gameplay/GamePlayText.xml</File>
+		<File>Gameplay/Resource.xml</File>
+		<File>Gameplay/Tables.sql</File>
 		<File>Map/MapText.xml</File>
 		<File>Map/NaturalWonders.xml</File>
 		<File>Map/ExtraPlacement.xml</File>
