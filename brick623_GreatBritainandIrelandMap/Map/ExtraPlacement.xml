@@ -1,5 +1,175 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<ExtraPlacement>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="37" Y="12" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="12" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="31" Y="10" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="30" Y="9" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="27" Y="13" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="27" Y="14" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="28" Y="14" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="27" Y="15" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="30" Y="21" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="28" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="36" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="28" Y="37" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="29" Y="46" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="24" Y="48" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="23" Y="48" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="23" Y="47" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="22" Y="56" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="21" Y="52" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="21" Y="53" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="25" Y="54" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="24" Y="53" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="18" Y="60" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="18" Y="61" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="19" Y="63" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="32" Y="69" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="69" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="69" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="70" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="61" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="61" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="62" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="49" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="48" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="41" Y="48" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="44" Y="44" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="45" Y="44" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="44" Y="43" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="45" Y="42" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="52" Y="32" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="52" Y="31" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="52" Y="27" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="52" Y="26" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="52" Y="24" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="56" Y="26" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="57" Y="26" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="55" Y="27" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="54" Y="27" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="58" Y="23" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="57" Y="13" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="58" Y="13" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="57" Y="14" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="58" Y="14" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="45" Y="5" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="42" Y="4" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="41" Y="3" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="46" Y="4" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="3" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="39" Y="3" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="37" Y="4" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="38" Y="4" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="2" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="2" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="28" Y="1" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="24" Y="1" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="25" Y="1" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="24" Y="3" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="25" Y="4" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="26" Y="4" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="28" Y="7" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="27" Y="33" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="28" Y="34" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="29" Y="36" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="28" Y="36" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="23" Y="41" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="22" Y="41" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="14" Y="41" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="15" Y="41" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="17" Y="41" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="8" Y="31" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="9" Y="32" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="8" Y="27" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="10" Y="26" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="8" Y="15" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="9" Y="14" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="12" Y="13" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="13" Y="13" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="16" Y="14" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="20" Y="17" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="22" Y="17" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="26" Y="22" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="25" Y="23" FeatureType="FEATURE_REEF" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="11" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="39" Y="10" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="43" Y="26" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="42" Y="26" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="44" Y="17" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="49" Y="9" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="43" Y="32" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="19" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="47" Y="34" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="60" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="61" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="28" Y="47" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="51" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="42" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="22" Y="50" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="20" Y="60" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="21" Y="65" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="12" Y="24" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="13" Y="24" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="12" Y="30" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="13" Y="30" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="12" Y="31" FeatureType="FEATURE_GEOTHERMAL_FISSURE" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="32" Y="51" FeatureType="FEATURE_FOREST" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="50" FeatureType="FEATURE_FOREST" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="42" Y="9" FeatureType="FEATURE_FLOODPLAINS_PLAINS"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="43" Y="10" FeatureType="FEATURE_FLOODPLAINS_PLAINS"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="48" Y="12" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="48" Y="11" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="5" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="6" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="7" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="38" Y="10" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="38" Y="12" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="37" Y="11" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="43" Y="8" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="53" Y="12" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="54" Y="12" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="44" Y="13" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="45" Y="13" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="46" Y="13" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="47" Y="13" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="51" Y="22" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="52" Y="21" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="51" Y="19" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="53" Y="16" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="39" Y="15" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="16" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="14" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="30" Y="16" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="44" Y="30" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="45" Y="30" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="46" Y="31" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="47" Y="30" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="47" Y="29" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="48" Y="29" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="38" Y="30" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="25" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="37" Y="39" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="40" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="40" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="39" Y="44" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="32" Y="45" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="50" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="50" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="28" Y="51" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="20" Y="37" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="20" Y="36" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="23" Y="37" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="24" Y="37" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="16" Y="33" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="18" Y="30" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="16" Y="27" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="16" Y="26" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="22" Y="26" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="21" Y="25" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="21" Y="20" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="15" Y="18" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="13" Y="23" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="12" Y="21" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND"/>
 	</ExtraPlacement>
 </GameData>

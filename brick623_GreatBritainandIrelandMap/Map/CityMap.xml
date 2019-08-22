@@ -1094,7 +1094,7 @@
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="32" Y="64" CityLocaleName="LOC_CITY_NAME_LAIRG" Area="0" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="33" Y="64" CityLocaleName="LOC_CITY_NAME_LAIRG" Area="0" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="64" CityLocaleName="LOC_CITY_NAME_LAIRG" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="64" CityLocaleName="LOC_CITY_NAME_HELMDSALE" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="64" CityLocaleName="LOC_CITY_NAME_HELMSDALE" Area="0" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="36" Y="64" CityLocaleName="LOC_CITY_NAME_HELMSDALE" Area="0" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="37" Y="64" CityLocaleName="LOC_CITY_NAME_LYBSTER" Area="0" />
 		
@@ -1205,7 +1205,7 @@
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="38" Y="56" CityLocaleName="LOC_CITY_NAME_BALMORAL" Area="0" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="39" Y="56" CityLocaleName="LOC_CITY_NAME_BANCHORY" Area="0" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="40" Y="56" CityLocaleName="LOC_CITY_NAME_ABERDEEN" Area="0" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="41" Y="56" CityLocaleName="LOC_CITY_NAME_ABREDEEN" Area="0" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="41" Y="56" CityLocaleName="LOC_CITY_NAME_ABERDEEN" Area="0" />
 		
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="34" Y="57" CityLocaleName="LOC_CITY_NAME_INVERNESS" Area="0" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" X="35" Y="57" CityLocaleName="LOC_CITY_NAME_TOMATIN" Area="0" />

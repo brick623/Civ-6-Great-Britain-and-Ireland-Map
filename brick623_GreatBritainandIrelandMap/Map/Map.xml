@@ -38,6 +38,17 @@
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_HATTUSA"	X="34" Y="58" />
 		
 	</StartPosition>
+	
+	<!-- ++++++++++++++++++++++++++++++ -->
+	<!--  Giant Earth Region position   -->
+	<!-- ++++++++++++++++++++++++++++++ -->
+	<RegionPosition>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="PENNINES"			X="39" Y="25" Width="4" Height="10" />
+	</RegionPosition>	
+	<!-- Regions for Deposits -->
+	<RegionPosition>	
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="PENNINES_COAL"			X="39" Y="25" Width="4" Height="10" />		
+	</RegionPosition>
 
 	<!-- Real City Naming. You have to fill this in manually -->
 	<!--

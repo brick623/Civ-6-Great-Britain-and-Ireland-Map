@@ -1,4 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!-- NATURAL WONDER RENAMING -->
+<GameInfo>
+	<Features>
+		<Update>
+			<Where FeatureType="FEATURE_MATTERHORN"/>
+			<Set>
+				<Name>LOC_FEATURE_SCHIEHALLION_NAME</Name>
+			</Set>
+		</Update>
+		<Update>
+			<Where FeatureType="FEATURE_DELICATE_ARCH"/>
+			<Set>
+				<Name>LOC_FEATURE_DURDLE_DOOR_NAME</Name>
+			</Set>
+		</Update>
+	</Features>
+</GameInfo>
+
+<!-- NATURAL WONDER TEXTS -->
+<GameData>
+	<LocalizedText>
+			<Replace Tag="LOC_FEATURE_SCHIEHALLION_NAME" Text="Schiehallion" Language="en_US" />
+			<Replace Tag="LOC_FEATURE_DURDLE_DOOR_NAME" Text="Durdle Door" Language="en_US" />
+	</LocalizedText>
+</GameData>
+
 <GameData>
 	<!-- You have to fill this in manually -->
 	<LocalizedText>
