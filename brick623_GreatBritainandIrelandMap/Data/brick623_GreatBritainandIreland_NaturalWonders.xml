@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+<!-- NATURAL WONDER RENAMING -->
+	<Features>
+		<Update>
+			<Where FeatureType="FEATURE_MATTERHORN"/>
+			<Set>
+				<Name>LOC_FEATURE_SCHIEHALLION_NAME</Name>
+			</Set>
+		</Update>
+		<Update>
+			<Where FeatureType="FEATURE_DELICATE_ARCH"/>
+			<Set>
+				<Name>LOC_FEATURE_DURDLE_DOOR_NAME</Name>
+			</Set>
+		</Update>
+		<Update>
+			<Where FeatureType="FEATURE_UBSUNUR_HOLLOW"/>
+			<Set>
+				<Name>LOC_FEATURE_THE_BURREN_NAME</Name>
+			</Set>
+		</Update>
+		<Update>
+			<Where FeatureType="FEATURE_TORRES_DEL_PAINE"/>
+			<Set>
+				<Name>LOC_FEATURE_LIATHACH_NAME</Name>
+			</Set>
+		</Update>
+		<Update>
+			<Where FeatureType="FEATURE_EVEREST"/>
+			<Set>
+				<Name>LOC_FEATURE_SNOWDON_NAME</Name>
+			</Set>
+		</Update>
+		<Update>
+			<LocalizedText>
+				<Row Tag="LOC_FEATURE_SCHIEHALLION_NAME" Text="Schiehallion" Language="en_US" />
+				<Row Tag="LOC_FEATURE_DURDLE_DOOR_NAME" Text="Durdle Door" Language="en_US" />
+				<Row Tag="LOC_FEATURE_THE_BURREN_NAME" Text="The Burren" Language="en_US" />
+				<Row Tag="LOC_FEATURE_LIATHACH_NAME" Text="Liathach" Language="en_US" />
+				<Row Tag="LOC_FEATURE_SNOWDON_NAME" Text="Snowdon" Language="en_US" />
+			</LocalizedText>
+		</Update>
+	</Features>
+</GameInfo>
+<!-- NATURAL WONDER TEXTS -->
+<GameData>
+	<LocalizedText>
+			<Row Tag="LOC_FEATURE_SCHIEHALLION_NAME" Text="Schiehallion" Language="en_US" />
+			<Row Tag="LOC_FEATURE_DURDLE_DOOR_NAME" Text="Durdle Door" Language="en_US" />
+	</LocalizedText>
+</GameData>
