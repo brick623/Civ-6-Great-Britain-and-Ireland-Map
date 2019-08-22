@@ -1318,34 +1318,30 @@
 		<Replace Tag="LOC_CITY_NAME_BALLYCASTLE" Text="Ballycastle" Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_CARNDONAGH" Text="Carndonagh" Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_CULDAFF" Text="Culdaff" Language="en_US" />
+		
+		<!-- MISSED -->
+		<Replace Tag="LOC_CITY_NAME_TROWBRIDGE" Text="Trowbridge" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_AMESBURY" Text="Amesbury" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_MARKET_DRAYTON" Text="Market Drayton" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_STAFFORD" Text="Stafford" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_LOUGHBOROUGH" Text="Loughborough" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BOURNE" Text="Bourne" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SPALDING" Text="Spalding" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_WITHERNSEA" Text="Withernsea" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_MARKET_WILLERBY" Text="Market Willerby" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_STEIN" Text="Stein" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_MUIR_OF_ORD" Text="Muir of Ord" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SOLLAS" Text="Sollas" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BALLYWATER" Text="Ballywater" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_IRVINESTOWN" Text="Irvinestown" Language="en_US" />
+		
+		<!-- NATURAL WONDER RENAMING -->
+		<Replace Tag="LOC_FEATURE_SCHIEHALLION_NAME" Text="Schiehallion" Language="en_US" />
+		<Replace Tag="LOC_FEATURE_DURDLE_DOOR_NAME" Text="Durdle Door" Language="en_US" />
+		<Replace Tag="LOC_FEATURE_THE_BURREN_NAME" Text="The Burren" Language="en_US" />
+		<Replace Tag="LOC_FEATURE_LIATHACH_NAME" Text="Liathach" Language="en_US" />
+		<Replace Tag="LOC_FEATURE_SNOWDON_NAME" Text="Snowdon" Language="en_US" />
 
 	</LocalizedText>
 	
-</GameData>
-
-
-<!-- NATURAL WONDER RENAMING -->
-<GameInfo>
-	<Features>
-		<Update>
-			<Where FeatureType="FEATURE_MATTERHORN"/>
-			<Set>
-				<Name>LOC_FEATURE_SCHIEHALLION_NAME</Name>
-			</Set>
-		</Update>
-		<Update>
-			<Where FeatureType="FEATURE_DELICATE_ARCH"/>
-			<Set>
-				<Name>LOC_FEATURE_DURDLE_DOOR_NAME</Name>
-			</Set>
-		</Update>
-	</Features>
-</GameInfo>
-
-<!-- NATURAL WONDER TEXTS -->
-<GameData>
-	<LocalizedText>
-			<Replace Tag="LOC_FEATURE_SCHIEHALLION_NAME" Text="Schiehallion" Language="en_US" />
-			<Replace Tag="LOC_FEATURE_DURDLE_DOOR_NAME" Text="Durdle Door" Language="en_US" />
-	</LocalizedText>
 </GameData>
