@@ -30,19 +30,4 @@
 		<Row Map = "brick623_GreatBritainandIrelandMap_Map.lua" Domain = "ResourcesPlacement" Value = "PLACEMENT_DEFAULT" />
 		<Row Map = "brick623_GreatBritainandIrelandMap_Map.lua" Domain = "ResourcesPlacement" Value = "PLACEMENT_IMPORT" />
 	</MapSupportedValues>
-<!-- NATURAL WONDER RENAMING -->
-	<Features>
-		<Update>
-			<Where FeatureType="FEATURE_MATTERHORN"/>
-			<Set>
-				<Name>LOC_FEATURE_SCHIEHALLION_NAME</Name>
-			</Set>
-		</Update>
-		<Update>
-			<Where FeatureType="FEATURE_DELICATE_ARCH"/>
-			<Set>
-				<Name>LOC_FEATURE_DURDLE_DOOR_NAME</Name>
-			</Set>
-		</Update>
-	</Features>
 </GameInfo>

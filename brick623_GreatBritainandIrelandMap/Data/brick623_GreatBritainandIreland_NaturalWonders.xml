@@ -32,21 +32,5 @@
 				<Name>LOC_FEATURE_SNOWDON_NAME</Name>
 			</Set>
 		</Update>
-		<Update>
-			<LocalizedText>
-				<Row Tag="LOC_FEATURE_SCHIEHALLION_NAME" Text="Schiehallion" Language="en_US" />
-				<Row Tag="LOC_FEATURE_DURDLE_DOOR_NAME" Text="Durdle Door" Language="en_US" />
-				<Row Tag="LOC_FEATURE_THE_BURREN_NAME" Text="The Burren" Language="en_US" />
-				<Row Tag="LOC_FEATURE_LIATHACH_NAME" Text="Liathach" Language="en_US" />
-				<Row Tag="LOC_FEATURE_SNOWDON_NAME" Text="Snowdon" Language="en_US" />
-			</LocalizedText>
-		</Update>
 	</Features>
 </GameInfo>
-<!-- NATURAL WONDER TEXTS -->
-<GameData>
-	<LocalizedText>
-			<Row Tag="LOC_FEATURE_SCHIEHALLION_NAME" Text="Schiehallion" Language="en_US" />
-			<Row Tag="LOC_FEATURE_DURDLE_DOOR_NAME" Text="Durdle Door" Language="en_US" />
-	</LocalizedText>
-</GameData>
