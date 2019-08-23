@@ -6,6 +6,9 @@
 		<Row Domain="Maps:Expansion2Maps" File="brick623_GreatBritainandIrelandMap_Map.lua" Name="LOC_brick623_GreatBritainandIrelandMap_Map_NAME" Description="LOC_brick623_GreatBritainandIrelandMap_Map_DESC" SortIndex="50"/>
 	</Maps>
 	<Parameters>
+		<Row Key1="Map" Key2="brick623_GreatBritainandIrelandMap_Map.lua" ParameterId="RealDeposits" Name="LOC_MAP_RESOURCES_PLACEMENT_RWDEPOSIT_NAME" Description="LOC_MAP_RESOURCES_PLACEMENT_RWDEPOSIT_DESCRIPTION" Domain="RealDeposits" DefaultValue="PLACEMENT_DEPOSIT" ConfigurationGroup="Map" ConfigurationId="RealDeposits" GroupId="MapOptions" SortIndex="277"/>
+        <Row Key1="Map" Key2="brick623_GreatBritainandIrelandMap_Map.lua" ParameterId="ResourcesExclusion" Name="LOC_MAP_RESOURCES_PLACEMENT_EXCLUDE_NAME" Description="LOC_MAP_RESOURCES_PLACEMENT_EXCLUDE_DESCRIPTION" Domain="ResourcesExclusion" DefaultValue="PLACEMENT_EXCLUDE" ConfigurationGroup="Map" ConfigurationId="ResourcesExclusion" GroupId="MapOptions" SortIndex="275"/>
+	
 		<Row Key1="Map" Key2="brick623_GreatBritainandIrelandMap_Map.lua" ParameterId="RiversPlacement" Name="LOC_MAP_RIVERS_PLACEMENT_NAME" Description="LOC_MAP_RIVERS_PLACEMENT_DESCRIPTION" Domain="RiversPlacement" DefaultValue="PLACEMENT_IMPORT" ConfigurationGroup="Map"	ConfigurationId="RiversPlacement"	GroupId="MapOptions" Visible="0" SortIndex="231"/>
 		<Row Key1="Map" Key2="brick623_GreatBritainandIrelandMap_Map.lua" ParameterId="ContinentsPlacement" Name="LOC_MAP_CONTINENT_PLACEMENT_NAME" Description="LOC_MAP_CONTINENT_PLACEMENT_DESCRIPTION" Domain="ContinentsPlacement" DefaultValue="PLACEMENT_IMPORT" ConfigurationGroup="Map"	ConfigurationId="ContinentsPlacement"	GroupId="MapOptions" Visible="0" SortIndex="232"/>
 		<Row Key1="Map" Key2="brick623_GreatBritainandIrelandMap_Map.lua" ParameterId="NaturalWondersPlacement" Name="LOC_MAP_NATURAL_WONDERS_PLACEMENT_NAME" Description="LOC_MAP_NATURAL_WONDERS_PLACEMENT_DESCRIPTION" Domain="NaturalWondersPlacement" DefaultValue="PLACEMENT_IMPORT" ConfigurationGroup="Map"	ConfigurationId="NaturalWondersPlacement"	GroupId="MapOptions" Hash="0" SortIndex="244"/>
@@ -20,7 +23,33 @@
 		<Row Key1="Map" Key2="brick623_GreatBritainandIrelandMap_Map.lua" ParameterId="AutoCityNaming" Name="LOC_MAP_AUTO_CITY_NAMING_NAME" Description="" Domain="bool" DefaultValue="1" ConfigurationGroup="Map" ConfigurationId="AutoCityNaming" GroupId="MapOptions" Visible="1" SortIndex="2000"/>		<Row Key1="Map" Key2="brick623_GreatBritainandIrelandMap_Map.lua" ParameterId="brick623_GreatBritainandIrelandMap_MapSize" Name="LOC_MAP_SIZE" Description="" Domain="StandardMapSizes" DefaultValue="MAPSIZE_LARGE" ConfigurationGroup="Map" ConfigurationId="MAP_SIZE" GroupId="MapOptions" Hash="1" Visible="0" SortIndex="225"/>
 		<Row Key1="Map" Key2="brick623_GreatBritainandIrelandMap_Map.lua" ParameterId="HideSize" Name="HideSize" Description="" Domain="bool" DefaultValue="1" ConfigurationGroup="Map" ConfigurationId="HideSize" GroupId="MapOptions" Visible="0" SortIndex="2010"/>
 		<Row Key1="Map" Key2="brick623_GreatBritainandIrelandMap_Map.lua" ParameterId="brick623_GreatBritainandIrelandMap_MapName" Name="MapName" Description="" Domain="text" DefaultValue="brick623_GreatBritainandIrelandMap_Map" ConfigurationGroup="Map" ConfigurationId="MapName" GroupId="MapOptions" Visible="0" SortIndex="2010"/>
+		
+		<Replace ParameterId="LEADER_MINOR_CIV_BOLOGNA"			Name="LOC_CIVILIZATION_ST_ANDREWS_NAME"	Description="LOC_CIVILIZATION_ST_ANDREWS_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_BOLOGNA"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_NGAZARGAMU"			Name="LOC_CIVILIZATION_PLYMOUTH_NAME"	Description="LOC_CIVILIZATION_PLYMOUTH_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_NGAZARGAMU"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_CARDIFF"			Name="LOC_CIVILIZATION_MANCHESTER_NAME"	Description="LOC_CIVILIZATION_MANCHESTER_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_CARDIFF"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_JERUSALEM"			Name="LOC_CIVILIZATION_CANTERBURY_NAME"	Description="LOC_CIVILIZATION_CANTERBURY_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_JERUSALEM"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_PRESLAV"			Name="LOC_CIVILIZATION_LANCASTER_NAME"	Description="LOC_CIVILIZATION_LANCASTER_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_PRESLAV"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_GENEVA"			Name="LOC_CIVILIZATION_OXFORD_NAME"	Description="LOC_CIVILIZATION_OXFORD_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_GENEVA"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_JAKARTA"			Name="LOC_CIVILIZATION_LINCOLN_NAME"	Description="LOC_CIVILIZATION_LINCOLN_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_JAKARTA"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_KANDY"			Name="LOC_CIVILIZATION_ST_DAVIDS_NAME"	Description="LOC_CIVILIZATION_ST_DAVIDS_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_KANDY"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_YEREVAN"			Name="LOC_CIVILIZATION_IONA_NAME"	Description="LOC_CIVILIZATION_IONA_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_YEREVAN"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_NAN_MADOL"			Name="LOC_CIVILIZATION_KIRKWALL_NAME"	Description="LOC_CIVILIZATION_KIRKWALL_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_NAN_MADOL"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_HATTUSA"			Name="LOC_CIVILIZATION_INVERNESS_NAME"	Description="LOC_CIVILIZATION_ST_ANDREWS_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_HATTUSA"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_BRUSSELS"			Name="LOC_CIVILIZATION_GLASGOW_NAME"	Description="LOC_CIVILIZATION_GLASGOW_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_BRUSSELS"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_AUCKLAND"			Name="LOC_CIVILIZATION_BELFAST_NAME"	Description="LOC_CIVILIZATION_BELFAST_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_AUCKLAND"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_VALLETTA"			Name="LOC_CIVILIZATION_ROCK_OF_CASHEL_NAME"	Description="LOC_CIVILIZATION_ROCK_OF_CASHEL_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_VALLETTA"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_CAHOKIA"			Name="LOC_CIVILIZATION_RATH_CRUACHAN_NAME"	Description="LOC_CIVILIZATION_RATH_CRUACHAN_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_CAHOKIA"			GroupId="MapOptions" SortIndex="83"/>
+		<Replace ParameterId="LEADER_MINOR_CIV_VILNIUS"			Name="LOC_CIVILIZATION_DUBLIN_NAME"	Description="LOC_CIVILIZATION_DUBLIN_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_VILNIUS"			GroupId="MapOptions" SortIndex="83"/>
 	</Parameters>
+	<ParameterDependencies>
+		<Replace ParameterId="Resources"				ConfigurationGroup="Map" ConfigurationId="ResourcesPlacement" 		Operator="NotEquals" 	ConfigurationValue="PLACEMENT_IMPORT"/>
+		<Replace ParameterId="Resources" 				ConfigurationGroup="Map" ConfigurationId="ResourcesPlacement" 		Operator="NotEquals" 	ConfigurationValue="PLACEMENT_EMPTY"/>
+		<Replace ParameterId="ResourcesExclusion" 		ConfigurationGroup="Map" ConfigurationId="ResourcesPlacement" 		Operator="NotEquals" 	ConfigurationValue="PLACEMENT_IMPORT"/>
+		<Replace ParameterId="ResourcesExclusion" 		ConfigurationGroup="Map" ConfigurationId="ResourcesPlacement" 		Operator="NotEquals" 	ConfigurationValue="PLACEMENT_EMPTY"/>
+		<Replace ParameterId="RealDeposits" 			ConfigurationGroup="Map" ConfigurationId="ResourcesPlacement" 		Operator="Equals" 		ConfigurationValue="PLACEMENT_DEFAULT"/>
+		<Replace ParameterId="RequestedResources" 		ConfigurationGroup="Map" ConfigurationId="CivilizationPlacement" 	Operator="Equals" 		ConfigurationValue="PLACEMENT_TSL"/>
+		<Replace ParameterId="RequestedResources" 		ConfigurationGroup="Map" ConfigurationId="ResourcesPlacement" 		Operator="NotEquals"	ConfigurationValue="PLACEMENT_EMPTY"/>
+	</ParameterDependencies>
 	<MapSupportedValues>
 		<Row Map = "brick623_GreatBritainandIrelandMap_Map.lua" Domain = "RiversPlacement" Value = "PLACEMENT_IMPORT" />
 		<Row Map = "brick623_GreatBritainandIrelandMap_Map.lua" Domain = "ContinentsPlacement" Value = "PLACEMENT_IMPORT" />
@@ -31,3 +60,6 @@
 		<Row Map = "brick623_GreatBritainandIrelandMap_Map.lua" Domain = "ResourcesPlacement" Value = "PLACEMENT_IMPORT" />
 	</MapSupportedValues>
 </GameInfo>
+
+<!--<Replace ParameterId="LEADER_MINOR_CIV_BOLOGNA"			Name="LOC_CIVILIZATION_ST_ANDREWS_NAME"	Description="LOC_CIVILIZATION_ST_ANDREWS_DESCRIPTION" 	Domain="bool" DefaultValue="0"	ConfigurationGroup="Map" ConfigurationId="LEADER_MINOR_CIV_BOLOGNA"			GroupId="MapOptions" SortIndex="83"/>
+
