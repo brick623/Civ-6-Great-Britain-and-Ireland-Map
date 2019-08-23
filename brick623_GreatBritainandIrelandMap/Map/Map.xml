@@ -18,10 +18,10 @@
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_SUK_ICELAND"	X="24" Y="59" />
 		
 		<!-- City States -->
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_NGARZARGAMU"	X="38" Y="33" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_NGAZARGAMU"	X="32" Y="5" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_CARDIFF"	X="39" Y="27" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_JERUSALEM"	X="54" Y="11" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_CARTHAGE"	X="32" Y="5" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_PRESLAV"	X="38" Y="33" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_GENEVA"	X="45" Y="14" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_JAKARTA"	X="48" Y="25" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_KANDY"	X="29" Y="16" />
@@ -30,7 +30,7 @@
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_NAN_MADOL"	X="37" Y="70" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_BRUSSELS"	X="33" Y="45" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_BOLOGNA"	X="39" Y="50" />
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_AUCKLAND"	X="33" Y="45" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_AUCKLAND"	X="25" Y="36" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_VALLETTA"	X="17" Y="22" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_CAHOKIA"	X="15" Y="32" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Civilization="CIVILIZATION_VILNIUS"	X="23" Y="27" />
@@ -40,14 +40,27 @@
 	</StartPosition>
 	
 	<!-- ++++++++++++++++++++++++++++++ -->
-	<!--  Giant Earth Region position   -->
+	<!-- Region position   -->
 	<!-- ++++++++++++++++++++++++++++++ -->
 	<RegionPosition>
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="GLOBAL_EXCLUDE"	X="1" Y="1" Width="70" Height="70" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="WEALD"			X="45" Y="7" Width="8" Height="5" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="SOUTH_WALES"		X="32" Y="12" Width="5" Height="3" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="NORTH_EAST"		X="42" Y="35" Width="3" Height="10" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="CUMBRIA"			X="35" Y="35" Width="5" Height="5" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="LOWLANDS"			X="31" Y="44" Width="10" Height="6" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="STAFFORDSHIRE"	X="39" Y="22" Width="3" Height="4" />
 		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="PENNINES"			X="39" Y="25" Width="4" Height="10" />
-	</RegionPosition>	
-	<!-- Regions for Deposits -->
-	<RegionPosition>	
-		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="PENNINES_COAL"			X="39" Y="25" Width="4" Height="10" />		
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="MUNSTER"			X="11" Y="17" Width="5" Height="5" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="ABERDEEN"			X="41" Y="51" Width="5" Height="10" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="MORECAMBE"		X="33" Y="27" Width="7" Height="6" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="MORAY"			X="36" Y="61" Width="6" Height="3" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="HUMBER"			X="46" Y="28" Width="5" Height="5" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="FIFE"				X="34" Y="49" Width="6" Height="4" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="WASH"				X="51" Y="24" Width="4" Height="4" />
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="GRAMPIANS"		X="33" Y="50" Width="6" Height="8" />
+		
+		<Replace MapName="brick623_GreatBritainandIrelandMap_Map" Region="NORFOLK"			X="51" Y="16" Width="6" Height="9" />
 	</RegionPosition>
 
 	<!-- Real City Naming. You have to fill this in manually -->
