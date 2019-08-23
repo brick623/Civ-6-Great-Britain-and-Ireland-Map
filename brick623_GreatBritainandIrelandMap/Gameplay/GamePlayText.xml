@@ -1341,7 +1341,99 @@
 		<Replace Tag="LOC_FEATURE_THE_BURREN_NAME" Text="The Burren" Language="en_US" />
 		<Replace Tag="LOC_FEATURE_LIATHACH_NAME" Text="Liathach" Language="en_US" />
 		<Replace Tag="LOC_FEATURE_SNOWDON_NAME" Text="Snowdon" Language="en_US" />
-
+		
+		<!-- CITY STATE TO COUNTY PALATINE RENAMING -->
+		<Replace Tag="LOC_CITY_STATES_COUNTY_PALATINE" Text="County Palatine" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_ST_ANDREWS_NAME" Text="St Andrews" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_ST_ANDREWS_DESCRIPTION" Text="Burgh of St Andrews" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_LANCASTER_NAME" Text="Lancaster" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_LANCASTER_DESCRIPTION" Text="County Palatine of Lancaster" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_MANCHESTER_NAME" Text="Manchester" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_MANCHESTER_DESCRIPTION" Text="City of Manchester" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_CANTERBURY_NAME" Text="Canterbury" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_CANTERBURY_DESCRIPTION" Text="Archdiocese of Canterbury" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_PLYMOUTH_NAME" Text="Plymouth" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_PLYMOUTH_DESCRIPTION" Text="City of Plymouth" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_OXFORD_NAME" Text="Oxford" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_OXFORD_DESCRIPTION" Text="City of Oxford" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_LINCOLN_NAME" Text="Lincoln" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_LINCOLN_DESCRIPTION" Text="City of Lincoln" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_ST_DAVIDS_NAME" Text="St Davids" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_ST_DAVIDS_DESCRIPTION" Text="Diocese of St Davids" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_IONA_NAME" Text="Iona" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_IONA_DESCRIPTION" Text="Isle of Iona" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_KIRKWALL_NAME" Text="Kirkwall" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_KIRKWALL_DESCRIPTION" Text="Orkney Islands" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_GLASGOW_NAME" Text="Glasgow" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_GLASGOW_DESCRIPTION" Text="City of Glasgow" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_BELFAST_NAME" Text="Belfast" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_BELFAST_DESCRIPTION" Text="City of Belfast" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_ROCK_OF_CASHEL_NAME" Text="Rock of Cashel" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_ROCK_OF_CASHEL_DESCRIPTION" Text="Cashel of the Kings" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_RATH_CRUACHAN_NAME" Text="Ráth Cruachan" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_RATH_CRUACHAN_DESCRIPTION" Text="Kingdom of Ráth Cruachan" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_DUBLIN_NAME" Text="Dublin" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_DUBLIN_DESCRIPTION" Text="City of Dublin" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_INVERNESS_NAME" Text="Inverness" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_INVERNESS_DESCRIPTION" Text="City of Inverness" Language="en_US" />
+		
+		<Replace Tag="LOC_CITY_STATES_CITY_STATES" Text="County Palatine" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_BOLOGNA_NAME" Text="St Andrews" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_BOLOGNA_DESCRIPTION" Text="Burgh of St Andrews" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_BOLOGNA_ADJECTIVE" Text="Fifer" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_NGAZARGAMU_NAME" Text="Plymouth" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_NGAZARGAMU_DESCRIPTION" Text="City of Plymouth" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_NGAZARGAMU_ADJECTIVE" Text="Devonian" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_CARDIFF_NAME" Text="Manchester" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_CARDIFF_DESCRIPTION" Text="City of Manchester" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_CARDIFF_ADJECTIVE" Text="Mancunian" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION" Text="Archdiocese of Canterbury" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE" Text="Kentish" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_JERUSALEM_NAME" Text="Canterbury" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION" Text="County Palatine of Lancaster" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_PRESLAV_ADJECTIVE" Text="Lancastrian" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_PRESLAV_NAME" Text="Lancaster" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_GENEVA_DESCRIPTION" Text="City of Oxford" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_GENEVA_ADJECTIVE" Text="Oxonian" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_GENEVA_NAME" Text="Oxford" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION" Text="City of Lincoln" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_JAKARTA_ADJECTIVE" Text="Lincolnian" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_JAKARTA_NAME" Text="Lincoln" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_DESCRIPTION" Text="City of Lincoln" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_ADJECTIVE" Text="Lincolnian" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_NAME" Text="Lincoln" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_KANDY_DESCRIPTION" Text="Diocese of St Davids" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_KANDY_ADJECTIVE" Text="St Davids" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_KANDY_NAME" Text="St Davids" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_YEREVAN_DESCRIPTION" Text="Isle of Iona" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_YEREVAN_ADJECTIVE" Text="Ionian" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_YEREVAN_NAME" Text="Iona" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION" Text="Orkney Islands" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_NAN_MADOL_ADJECTIVE" Text="Kirkwall" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_NAN_MADOL_NAME" Text="Kirkwall" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_HATTUSA_DESCRIPTION" Text="City of Inverness" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_HATTUSA_ADJECTIVE" Text="Highlander" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_HATTUSA_NAME" Text="Inverness" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION" Text="City of Glasgow" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE" Text="Glaswegian" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_BRUSSELS_NAME" Text="Glasgow" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_AUCKLAND_DESCRIPTION" Text="City of Belfast" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_AUCKLAND_ADJECTIVE" Text="Belfaster" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_AUCKLAND_NAME" Text="Belfast" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_VALLETTA_DESCRIPTION" Text="Cashel of the Kings" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_VALLETTA_ADJECTIVE" Text="Munster" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_VALLETTA_NAME" Text="Rock of Cashel" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_CAHOKIA_DESCRIPTION" Text="Kingdom of Ráth Cruachan" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_CAHOKIA_ADJECTIVE" Text="Connachta" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_CAHOKIA_NAME" Text="Ráth Cruachan" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_VILNIUS_DESCRIPTION" Text="City of Dublin" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_VILNIUS_ADJECTIVE" Text="Dubliner" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_VILNIUS_NAME" Text="Dublin" Language="en_US" />
+		
 	</LocalizedText>
 	
 </GameData>
+
+		<!-- CITY STATE RENAMING TEST -->
+		<!--Replace Tag="LOC_CIVILIZATION_BOLOGNA_NAME" Text="St Andrews" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_BOLOGNA_DESCRIPTION" Text="St Andrews City-State" Language="en_US" />
