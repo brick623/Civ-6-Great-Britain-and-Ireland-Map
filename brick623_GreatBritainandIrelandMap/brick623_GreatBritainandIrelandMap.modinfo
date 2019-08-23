@@ -15,16 +15,19 @@
 			<File>Config/Config.xml</File>
 			<File>Map/CityMap.xml</File>
 			<File>Data/brick623_GreatBritainandIreland_NaturalWonders.xml</File>
+			<File>Data/brick623_GreatBritainandIreland_City_States.xml</File>
 			<File>Gameplay/Resource.xml</File>
 		</UpdateDatabase>
 		<UpdateDatabase id="brick623_GreatBritainandIrelandMap_ConfigDatabase">
 			<File>Data/brick623_GreatBritainandIreland_NaturalWonders.xml</File>
+			<File>Data/brick623_GreatBritainandIreland_City_States.xml</File>
 			<File>Gameplay/Resource.xml</File>
 			<File>Gameplay/GamePlayText.xml</File>
 		</UpdateDatabase>
 		<UpdateText id="brick623_GreatBritainandIrelandMap_ConfigText">
 			<File>Config/Config_Text.xml</File>
 			<File>Gameplay/GamePlayText.xml</File>
+			<File>Data/brick623_GreatBritainandIreland_City_States.xml</File>
 		</UpdateText>
 	</FrontEndActions>
 	<InGameActions>
@@ -39,6 +42,7 @@
 		</UpdateDatabase>
 		<UpdateDatabase id="NewAction">
 			<File>Data/brick623_GreatBritainandIreland_NaturalWonders.xml</File>
+			<File>Data/brick623_GreatBritainandIreland_City_States.xml</File>
 			<File>Map/Map.xml</File>
 			<File>Map/CityMap.xml</File>
 			<File>Gameplay/GamePlayText.xml</File>
@@ -50,11 +54,19 @@
 			<File>Map/MapText.xml</File>
 			<File>Gameplay/GamePlayText.xml</File>
 		</UpdateText>
+		<UpdateDatabase id="YNAMP_USER_CUSTOMIZATION">
+           	<Properties>
+				<LoadOrder>10600</LoadOrder>
+           	</Properties>
+			<File>custom.sql</File>
+			<File>custom.xml</File>
+		</UpdateDatabase>
 	</InGameActions>
 	<Files>
 		<File>Config/Config.xml</File>
 		<File>Config/Config_Text.xml</File>
 		<File>Data/brick623_GreatBritainandIreland_NaturalWonders.xml</File>
+		<File>Data/brick623_GreatBritainandIreland_City_States.xml</File>
 		<File>Map/Map.xml</File>
 		<File>Map/CityMap.xml</File>
 		<File>Gameplay/GamePlayText.xml</File>
