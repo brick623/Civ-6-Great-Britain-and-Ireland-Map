@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-		<Replace FeatureType="FEATURE_MATTERHORN" 	Name="LOC_FEATURE_SCHIEHALLION_NAME"	Description="LOC_FEATURE_SCHIEHALLION_NAME" />
 	<LocalizedText>
 		<Replace Tag="LOC_brick623_GreatBritainandIrelandMap_Map_NAME" Language="en_US">
 			<Text>Great Britain and Ireland Map</Text>
@@ -8,5 +7,139 @@
 		<Replace Tag="LOC_brick623_GreatBritainandIrelandMap_Map_DESC" Language="en_US"
 >			<Text>Great Britain and Ireland Map (79x73) by brick623</Text>
 		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BOLOGNA_NAME" Language="en_US">
+		<Text>St Andrews</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BOLOGNA_DESCRIPTION" Language="en_US">
+		<Text>Burgh of St Andrews</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NGAZARGAMU_NAME" Language="en_US">
+		<Text>Plymouth</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NGAZARGAMU_DESCRIPTION" Language="en_US">
+		<Text>City of Plymouth</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PRESLAV_NAME" Language="en_US">
+		<Text>Lancaster</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION" Language="en_US">
+		<Text>County Palatine of Lancaster</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CARDIFF_NAME" Language="en_US">
+		<Text>Manchester</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CARDIFF_DESCRIPTION" Language="en_US">
+		<Text>City of Manchester</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_JERUSALEM_NAME" Language="en_US">
+		<Text>Canterbury</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION" Language="en_US">
+		<Text>Archdiocese of Canterbury</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GENEVA_NAME" Language="en_US">
+		<Text>Oxford</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GENEVA_DESCRIPTION" Language="en_US">
+		<Text>City of Oxford</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_JAKARTA_NAME" Language="en_US">
+		<Text>Lincoln</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION" Language="en_US">
+		<Text>City of Lincoln</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KANDY_NAME" Language="en_US">
+		<Text>St Davids</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KANDY_DESCRIPTION" Language="en_US">
+		<Text>Diocese of St Davids</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_YEREVAN_NAME" Language="en_US">
+		<Text>Iona</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_YEREVAN_DESCRIPTION" Language="en_US">
+		<Text>Isle of Iona</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NAN_MADOL_NAME" Language="en_US">
+		<Text>Kirkwall</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION" Language="en_US">
+		<Text>Orkney Islands</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_HATTUSA_NAME" Language="en_US">
+		<Text>Inverness</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_HATTUSA_DESCRIPTION" Language="en_US">
+		<Text>City of Inverness</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BRUSSELS_NAME" Language="en_US">
+		<Text>Glasgow</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION" Language="en_US">
+		<Text>City of Glasgow</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUCKLAND_NAME" Language="en_US">
+		<Text>Belfast</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUCKLAND_DESCRIPTION" Language="en_US">
+		<Text>City of Belfast</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VALLETTA_NAME" Language="en_US">
+		<Text>Rock of Cashel</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VALLETTA_DESCRIPTION" Language="en_US">
+		<Text>Cashel of the Kings</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CAHOKIA_NAME" Language="en_US">
+		<Text>Ráth Cruachan</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CAHOKIA_DESCRIPTION" Language="en_US">
+		<Text>Kingdom of Ráth Cruachan</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VILNIUS_NAME" Language="en_US">
+		<Text>Dublin</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VILNIUS_DESCRIPTION" Language="en_US">
+		<Text>City of Dublin</Text>
+		</Replace>
 	</LocalizedText>
+	<BaseGameText>
+	<Replace Tag="LOC_CITY_STATES_CITY_STATE" Language="en_US">
+		<Text>County Palatine</Text>
+		</Replace>
+	</BaseGameText>
 </GameData>
+
+		<!--The Above is for text in the Game Setup Menu >
+		
+		<!-- 		<Replace Tag="LOC_CIVILIZATION_NGARZARGAMU_NAME" Text="Lancaster" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_CARDIFF_NAME" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_JERUSALEM_NAME" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_CARTHAGE_NAME" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_GENEVA_NAME" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_KANDY_NAME" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_LISBON_NAME" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_YEREVAN_NAME" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_NAN_MADOL_NAME" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_BRUSSELS_NAME" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_AUCKLAND_NAME" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_VALLETTA_NAME" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_CAHOKIA_NAME" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_VILNIUS_NAME" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION_HATTUSA_NAME" Text="" Language="en_US" />
+		<Replace Tag="LOC_CIVILIZATION__DESCRIPTION" Text="" Language="en_US" />
