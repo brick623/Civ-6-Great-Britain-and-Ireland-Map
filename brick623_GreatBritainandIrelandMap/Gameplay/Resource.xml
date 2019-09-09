@@ -16,10 +16,40 @@
 	
 	<!-- Major Real UK Deposits -->	
 	<ResourceRegionDeposit>
+		<!-- Copper -->
+		<Row>
+			<Region>STAFFORDSHIRE</Region>
+			<Resource>RESOURCE_COPPER</Resource>
+			<Deposit>5</Deposit>
+			<MinYield>4</MinYield>
+			<MaxYield>8</MaxYield>
+		</Row>
+		<!-- Cattle -->
+		<Row>
+			<Region>GRAMPIANS</Region>
+			<Resource>RESOURCE_CATTLE</Resource>
+			<Deposit>5</Deposit>
+			<MinYield>4</MinYield>
+			<MaxYield>8</MaxYield>
+		</Row>
 		<!-- Wheat -->
 		<Row>
 			<Region>NORFOLK</Region>
 			<Resource>RESOURCE_WHEAT</Resource>
+			<Deposit>5</Deposit>
+			<MinYield>4</MinYield>
+			<MaxYield>8</MaxYield>
+		</Row>
+		<Row>
+			<Region>STAFFORDSHIRE</Region>
+			<Resource>RESOURCE_SALT</Resource>
+			<Deposit>5</Deposit>
+			<MinYield>4</MinYield>
+			<MaxYield>8</MaxYield>
+		</Row>
+		<Row>
+			<Region>CORNWALL</Region>
+			<Resource>RESOURCE_SALT</Resource>
 			<Deposit>5</Deposit>
 			<MinYield>4</MinYield>
 			<MaxYield>8</MaxYield>
@@ -72,8 +102,8 @@
 			<Region>WEALD</Region>
 			<Resource>RESOURCE_NITER</Resource>
 			<Deposit>3</Deposit>
-			<MinYield>4</MinYield>
-			<MaxYield>8</MaxYield>
+			<MinYield>2</MinYield>
+			<MaxYield>4</MaxYield>
 		</Row>
 		<Row>
 			<Region>LOWLANDS</Region>
@@ -221,8 +251,40 @@
 	<!-- Resource Exclusivity (ie only Norfolk has spice/mustard) -->
 	<ResourceRegionExclusive>
 		<Row>
-			<Region>NORFOLK</Region>
+			<Region>NORFOLK_SPICES_1</Region>
 			<Resource>RESOURCE_SPICES</Resource>
+		</Row>
+		<Row>
+			<Region>NORFOLK_SPICES_2</Region>
+			<Resource>RESOURCE_SPICES</Resource>
+		</Row>
+		<Row>
+			<Region>NORFOLK_SPICES_3</Region>
+			<Resource>RESOURCE_SPICES</Resource>
+		</Row>
+		<Row>
+			<Region>GRAMPIANS_DIAMONDS_1</Region>
+			<Resource>RESOURCE_DIAMONDS</Resource>
+		</Row>
+		<Row>
+			<Region>GRAMPIANS_DIAMONDS_2</Region>
+			<Resource>RESOURCE_DIAMONDS</Resource>
+		</Row>
+		<Row>
+			<Region>GRAMPIANS_DIAMONDS_3</Region>
+			<Resource>RESOURCE_DIAMONDS</Resource>
+		</Row>
+		<Row>
+			<Region>SUSSEX_WINE_1</Region>
+			<Resource>RESOURCE_WINE</Resource>
+		</Row>
+		<Row>
+			<Region>SUSSEX_WINE_2</Region>
+			<Resource>RESOURCE_WINE</Resource>
+		</Row>
+		<Row>
+			<Region>SUSSEX_WINE_3</Region>
+			<Resource>RESOURCE_WINE</Resource>
 		</Row>
 	</ResourceRegionExclusive>
 	
